@@ -1,4 +1,4 @@
-﻿	// <copyright file="AssemblyVersionInfo.cs" company="Firefish Software Ltd">
+	// <copyright file="AssemblyVersionInfo.cs" company="Firefish Software Ltd">
 //     Copyright (c) Firefish Software Ltd. All rights reserved.
 // </copyright>
 
@@ -17,5 +17,5 @@
 //      Hotfix Number (resets every release)
 //      SVN Revision
 //
-[assembly: System.Reflection.AssemblyVersion("3.1.21.30985")]
-[assembly: System.Reflection.AssemblyFileVersion("3.1.21.30985")]
+[assembly: System.Reflection.AssemblyVersion("3.1.21.954a2a9d6d939ab7178b4a7c296f5a0fb7899b5e")]
+[assembly: System.Reflection.AssemblyFileVersion("3.1.21.954a2a9d6d939ab7178b4a7c296f5a0fb7899b5e")]
